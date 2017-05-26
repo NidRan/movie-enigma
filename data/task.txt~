@@ -1,0 +1,2 @@
+
+Shortlisting question: Create a repo on github or bitbucket, make it public and share with us. (do NOT use the name "redcarpet" in the repo) dataset: http://files.grouplens.org/datasets/movielens/ml-latest-small.zip (datset has movies and ratings as CSV files) Do all of this in a jupyter notebook Load the dataset into pyspark dataframes as well as a separate pyspark RDD Create an association matrix (for movies vs ratings) using alternating least squares (ALS) - do this for both the dataframe as well as the RDD. Compare them and mark the differences. 
